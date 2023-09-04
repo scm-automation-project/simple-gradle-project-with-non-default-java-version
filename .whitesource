@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "javaVersion": "8"
+    "javaVersion": "17"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
